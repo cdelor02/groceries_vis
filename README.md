@@ -1,2 +1,2 @@
 # groceries_vis
-fun project visualising my grocery purchases
+Fun project visualising my grocery purchases, using Matplotlib and Pandas
